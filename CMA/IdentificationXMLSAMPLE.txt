@@ -1,0 +1,25 @@
+﻿<EnviarInstrucao>
+    <InstrucaoUnica TipoValidacao="Transparente">
+        <Razao>Razão / Motivo do pagamento</Razao>
+        <Valores>
+            <Valor moeda='BRL'>100.00</Valor>
+        </Valores>
+        <IdProprio>ABC1234</IdProprio>
+        <Pagador>
+           <Nome>Nome Sobrenome</Nome>
+           <Email>email@cliente.com.br</Email>
+           <IdPagador>id_usuario</IdPagador>
+           <EnderecoCobranca>
+               <Logradouro>Rua do Zézinho Coração</Logradouro>
+               <Numero>45</Numero>
+               <Complemento>z</Complemento>
+               <Bairro>Palhaço Jão</Bairro>
+               <Cidade>São Paulo</Cidade>
+               <Estado>SP</Estado>
+               <Pais>BRA</Pais>
+               <CEP>01230-000</CEP>
+               <TelefoneFixo>(11)8888-8888</TelefoneFixo>
+           </EnderecoCobranca>
+       </Pagador>
+    </InstrucaoUnica>
+</EnviarInstrucao>

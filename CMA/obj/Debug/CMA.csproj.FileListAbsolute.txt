@@ -1,0 +1,4 @@
+D:\job\moip\CustomMoipAPI\CMA\bin\Debug\CMA.dll
+D:\job\moip\CustomMoipAPI\CMA\bin\Debug\CMA.pdb
+D:\job\moip\CustomMoipAPI\CMA\obj\Debug\CMA.dll
+D:\job\moip\CustomMoipAPI\CMA\obj\Debug\CMA.pdb
