@@ -1,0 +1,8 @@
+D:\job\moip\CustomMoipAPI\Test\bin\Debug\Test.exe.config
+D:\job\moip\CustomMoipAPI\Test\bin\Debug\Test.exe
+D:\job\moip\CustomMoipAPI\Test\bin\Debug\Test.pdb
+D:\job\moip\CustomMoipAPI\Test\bin\Debug\CMA.dll
+D:\job\moip\CustomMoipAPI\Test\bin\Debug\CMA.pdb
+D:\job\moip\CustomMoipAPI\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\job\moip\CustomMoipAPI\Test\obj\Debug\Test.exe
+D:\job\moip\CustomMoipAPI\Test\obj\Debug\Test.pdb

@@ -1,8 +1,0 @@
-D:\job\moip\CustomMoipAPI\Tester\bin\Debug\Tester.exe.config
-D:\job\moip\CustomMoipAPI\Tester\bin\Debug\Tester.exe
-D:\job\moip\CustomMoipAPI\Tester\bin\Debug\Tester.pdb
-D:\job\moip\CustomMoipAPI\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
-D:\job\moip\CustomMoipAPI\Tester\obj\Debug\Tester.exe
-D:\job\moip\CustomMoipAPI\Tester\obj\Debug\Tester.pdb
-D:\job\moip\CustomMoipAPI\Tester\bin\Debug\CMA.dll
-D:\job\moip\CustomMoipAPI\Tester\bin\Debug\CMA.pdb
